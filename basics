@@ -1,2 +1,3 @@
 var a="new begining";
 console.log(a);
+console.log(typeof a);
